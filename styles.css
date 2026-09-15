@@ -6,11 +6,11 @@
   --surface-warm: #07584c;
   --text: #f7fbf6;
   --muted: #c3d7d1;
-  --accent: #f2d31b;
-  --accent-2: #ffc928;
-  --accent-soft: #fff078;
-  --border: rgba(242, 211, 27, 0.32);
-  --glow: 0 0 18px rgba(242, 211, 27, 0.46);
+  --accent: #dbe943;
+  --accent-2: #f0e75a;
+  --accent-soft: #f4f7a3;
+  --border: rgba(219, 233, 67, 0.32);
+  --glow: 0 0 18px rgba(219, 233, 67, 0.42);
   --shadow: 0 20px 60px rgba(0, 32, 28, 0.52);
   --shell: min(1180px, calc(100vw - 48px));
   --header-height: 72px;
@@ -75,7 +75,7 @@ p {
 }
 
 ::selection {
-  background: rgba(242, 211, 27, 0.42);
+  background: rgba(219, 233, 67, 0.42);
   color: var(--text);
 }
 
@@ -112,12 +112,12 @@ p {
   z-index: 100;
   height: var(--header-height);
   background: rgba(0, 59, 53, 0.94);
-  border-bottom: 1px solid rgba(242, 211, 27, 0.1);
+  border-bottom: 1px solid rgba(219, 233, 67, 0.1);
   backdrop-filter: blur(12px);
 }
 
 .site-header.scrolled {
-  border-color: rgba(242, 211, 27, 0.22);
+  border-color: rgba(219, 233, 67, 0.22);
   box-shadow: 0 12px 38px rgba(0, 32, 28, 0.42);
 }
 
@@ -243,7 +243,7 @@ p {
 .social-links a:focus-visible,
 .project-link:focus,
 .project-link:focus-visible {
-  outline: 3px solid rgba(242, 211, 27, 0.46);
+  outline: 3px solid rgba(219, 233, 67, 0.46);
   outline-offset: 4px;
 }
 
@@ -306,7 +306,7 @@ p {
   border: 1px solid var(--accent);
   border-radius: 50%;
   color: #fff;
-  box-shadow: 0 0 11px rgba(242, 211, 27, 0.58);
+  box-shadow: 0 0 11px rgba(219, 233, 67, 0.58);
   transition:
     background 180ms ease,
     color 180ms ease,
@@ -340,7 +340,7 @@ p {
   border-radius: 50%;
   box-shadow:
     0 0 10px var(--accent),
-    0 0 28px rgba(242, 211, 27, 0.5),
+    0 0 28px rgba(219, 233, 67, 0.5),
     var(--shadow);
 }
 
@@ -348,7 +348,7 @@ p {
   position: absolute;
   inset: -16px;
   z-index: -1;
-  border: 1px solid rgba(242, 211, 27, 0.38);
+  border: 1px solid rgba(219, 233, 67, 0.38);
   border-radius: inherit;
   content: "";
 }
@@ -537,9 +537,9 @@ p {
   min-height: 170px;
   overflow: hidden;
   margin-bottom: 18px;
-  border: 1px solid rgba(242, 211, 27, 0.32);
+  border: 1px solid rgba(219, 233, 67, 0.32);
   background:
-    linear-gradient(135deg, rgba(242, 211, 27, 0.14), transparent 42%),
+    linear-gradient(135deg, rgba(219, 233, 67, 0.14), transparent 42%),
     #053f38;
 }
 
@@ -548,7 +548,7 @@ p {
   display: block;
   border-radius: 8px;
   background: linear-gradient(100deg, var(--accent), var(--accent-2));
-  box-shadow: 0 0 18px rgba(242, 211, 27, 0.38);
+  box-shadow: 0 0 18px rgba(219, 233, 67, 0.38);
 }
 
 .project-visual span:nth-child(1) {
@@ -626,7 +626,7 @@ p {
 
 .tech-list li {
   padding: 5px 7px;
-  border: 1px solid rgba(242, 211, 27, 0.28);
+  border: 1px solid rgba(219, 233, 67, 0.28);
   border-radius: 6px;
   color: #eaf6ee;
   font-size: 0.69rem;
@@ -651,7 +651,7 @@ p {
   border: 1px solid var(--accent);
   border-radius: 50%;
   color: #fff;
-  box-shadow: 0 0 12px rgba(242, 211, 27, 0.56);
+  box-shadow: 0 0 12px rgba(219, 233, 67, 0.56);
 }
 
 .timeline {
@@ -726,7 +726,7 @@ p {
 }
 
 .site-footer {
-  border-top: 1px solid rgba(242, 211, 27, 0.18);
+  border-top: 1px solid rgba(219, 233, 67, 0.18);
 }
 
 .site-footer .shell {
