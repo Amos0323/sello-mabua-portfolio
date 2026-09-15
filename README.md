@@ -1,11 +1,12 @@
-# Sello Mabua - QA Automation Portfolio
+# Sello Mabua - Systems Solution Specialist Portfolio
 
-Personal portfolio website for Sello Mabua, a QA Analyst focused on test
-automation, enterprise systems support, and workflow development.
+Personal portfolio website for Sello Mabua, a Systems Solution Specialist
+focused on test automation, enterprise systems support, AI-assisted workflow
+validation, and practical full-stack delivery.
 
 ## Live Website
 
-https://amos0323.github.io/sello-mabua-portfolio/
+https://sello-mabua-portfolio.vercel.app/
 
 ## Focus Areas
 
@@ -18,17 +19,19 @@ https://amos0323.github.io/sello-mabua-portfolio/
 
 ## Featured Project Collection
 
-The portfolio now includes nine projects across:
+The portfolio now includes seven recruiter-facing projects across:
 
 - QA & Systems
 - AI Automation
 - Web Development
 
 The first three projects highlight QA and systems work: ShopSure, Employee
-Shuttle Tracker, and AI Document Intelligence Platform.
+Shuttle Tracker, and AI Document Intelligence Platform. Projects that were
+empty, not demo-ready, or weak for the target roles were removed from the
+website after QA audit.
 
 ## Technology
 
-This portfolio is a static GitHub Pages site built with HTML, CSS, and
+This portfolio is a static Vercel site built with HTML, CSS, and
 JavaScript. It has no frontend build step and avoids publishing local project
 folders, credentials, generated reports, or confidential company information.
