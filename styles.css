@@ -774,10 +774,6 @@ p {
     gap: 28px;
   }
 
-  .nav-resume {
-    display: none;
-  }
-
   .hero,
   .about,
   .skills {
@@ -843,11 +839,6 @@ p {
     display: block;
     padding: 10px 0;
     font-size: 1rem;
-  }
-
-  .nav-resume {
-    display: inline-flex;
-    width: fit-content;
   }
 
   .hero,
