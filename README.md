@@ -19,13 +19,18 @@ https://sello-mabua-portfolio.vercel.app/
 
 ## Featured Project Collection
 
-The portfolio now includes seven recruiter-facing projects across:
+The portfolio now includes eight recruiter-facing projects across:
 
+- Front-End / UX Development
 - QA & Systems
 - AI Automation
 - Web Development
 
-The first three projects highlight QA and systems work: ShopSure, Employee
+Nexa Design System leads the collection with separate links to its live application,
+Storybook component library, GitHub repository, and Figma design. It highlights
+React, TypeScript, MUI/MUI X, accessible interactions, and automated testing.
+
+The next three projects highlight QA and systems work: ShopSure, Employee
 Shuttle Tracker, and AI Document Intelligence Platform. Projects that were
 empty, not demo-ready, or weak for the target roles were removed from the
 website after QA audit.
