@@ -19,9 +19,10 @@ https://sello-mabua-portfolio.vercel.app/
 
 ## Featured Project Collection
 
-The portfolio now includes eight recruiter-facing projects across:
+The portfolio now includes nine recruiter-facing projects across:
 
 - Front-End / UX Development
+- Creative Development / 2D & 3D Animation
 - QA & Systems
 - AI Automation
 - Web Development
@@ -29,6 +30,10 @@ The portfolio now includes eight recruiter-facing projects across:
 Nexa Design System leads the collection with separate links to its live application,
 Storybook component library, GitHub repository, and Figma design. It highlights
 React, TypeScript, MUI/MUI X, accessible interactions, and automated testing.
+
+MOTIONLAB Interactive Design follows Nexa, showcasing four interactive 2D studios
+and AURA procedural 3D headphones. Its card links to the live demo, AURA studio,
+GitHub repository, and engineering case study.
 
 The next three projects highlight QA and systems work: ShopSure, Employee
 Shuttle Tracker, and AI Document Intelligence Platform. Projects that were

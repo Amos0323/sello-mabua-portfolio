@@ -940,3 +940,14 @@ p {
     transform: none;
   }
 }
+
+/* Keep the featured demo action legible against the existing accent. */
+.project-link-primary,
+.project-link-primary span {
+  color: var(--bg-alt);
+}
+
+.project-link-primary span {
+  border-color: currentColor;
+  box-shadow: none;
+}
